@@ -105,6 +105,7 @@ cloudflare.com
 amazon.com
 fromsoftware-game.net
 gr-prod-steam.fromsoftware-game.net
+#cloudflare
 173.245.48.0/20
 103.21.244.0/22
 103.22.200.0/22
@@ -120,6 +121,7 @@ gr-prod-steam.fromsoftware-game.net
 104.24.0.0/14
 172.64.0.0/13
 131.0.72.0/22
+#cloudfront
 120.52.22.96/27
 205.251.249.0/24
 180.163.57.128/26
@@ -314,6 +316,7 @@ gr-prod-steam.fromsoftware-game.net
 44.227.178.0/24
 44.234.108.128/25
 44.234.90.252/30
+# digitalocean
 5.101.96.0/20
 24.144.64.0/21
 24.144.76.0/22
@@ -470,6 +473,7 @@ gr-prod-steam.fromsoftware-game.net
 208.68.36.0/22
 209.38.0.0/16
 209.97.128.0/18
+#Discord
 138.128.136.0/21
 162.158.0.0/15
 172.64.0.0/13
@@ -479,6 +483,8 @@ gr-prod-steam.fromsoftware-game.net
 35.208.0.0/12
 5.200.14.128/25
 66.22.192.0/18
+#Discord
+#hetzner
 5.9.0.0/16
 5.75.128.0/17
 23.88.0.0/17
