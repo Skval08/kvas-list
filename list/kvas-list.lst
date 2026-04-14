@@ -91,8 +91,7 @@ www.twitch.tv
 usher.ttvnw.net
 instagram.com
 cdninstagram.com
-hjm.rebe.capcom.com
-mtm.rebe.capcom.com
+rebe.capcom.com
 cloudflare.com
 cloudflarestatus.com
 cdnjs.com
@@ -149,3 +148,5 @@ sadservers.com
 questionablyepic.com
 curseforge.com
 istio.io
+cilium.io
+envoyproxy.io
